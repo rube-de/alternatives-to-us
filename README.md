@@ -82,6 +82,7 @@ This list is a **community-driven effort** and we encourage:
 - **Tresorit** 🇨🇭: End-to-end encrypted. [Website](https://tresorit.com)
 - **Nextcloud** 🇩🇪: Self-hosted, private cloud solution. [Website](https://nextcloud.com)
 - **Sync.com** 🇨🇦: Privacy-focused. [Website](https://sync.com)
+- **Proton Drive** 🇨🇭: Privacy-focused. [Website](https://proton.me/drive)
 
 ## Messaging Apps
 - **Threema** 🇨🇭: Secure and privacy-friendly. [Website](https://threema.ch)
