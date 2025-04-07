@@ -149,6 +149,7 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 - **Rakuten** 🇯🇵: Japan's global marketplace. [Website](https://global.rakuten.com)
 - **Bol.com** 🇳🇱: Dutch e-commerce site. [Website](https://bol.com)
 - **Farfetch** 🇵🇹: Global fashion platform. [Website](https://farfetch.com)
+- **Galaxus** 🇨🇭: Swiss e-commerce platform (also availalbe in Europe) [Website](https://www.galaxus.de)
 
 ## Money Transfer
 - **Wise** 🇬🇧: International money transfers. [Website](https://wise.com)
